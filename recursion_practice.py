@@ -5,7 +5,8 @@
 
 def recursive_sum(lst):
 	""" Return the sum of all of the integers provided in the input list.
-
+	Something better
+	
 	>>> recursive_sum([3, 4])
 	7
 
